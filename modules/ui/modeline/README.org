@@ -33,6 +33,7 @@ powered by [[https://github.com/seagle0128/doom-modeline][the doom-modeline pack
 ** Module Flags
 + =+light= Enables a lighter, less featureful version of the modeline that does
   not depend on ~doom-modeline~, which has performances issues in some cases.
+  + =+headerline= in conjunction with =+light= enables the header-line instead of the mode-line.
 
 ** Plugins
 + [[https://github.com/seagle0128/doom-modeline][doom-modeline]]
